@@ -1,0 +1,11 @@
+.body{
+    background: black;
+}
+
+.main-layout {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background: url("https://www.teahub.io/photos/full/8-84916_fondos-de-pantalla-pokemon.jpg");
+  }
+
